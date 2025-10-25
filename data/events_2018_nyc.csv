@@ -1,0 +1,14 @@
+name,start_datetime,end_datetime,borough,category,notes
+St. Patrick's Day Parade,2018-03-17 11:00:00,2018-03-17 17:00:00,Manhattan,Parade,Fifth Ave corridor closures
+TD Five Boro Bike Tour,2018-05-06 07:00:00,2018-05-06 17:00:00,Multiple,Sports,Citywide route impacts
+NYC Pride March,2018-06-24 12:00:00,2018-06-24 19:00:00,Manhattan,Parade,Large Midtown/West Village closures
+Macy's 4th of July Fireworks,2018-07-04 19:00:00,2018-07-04 23:00:00,Multiple,Holiday Event,East River access changes
+US Open Tennis (Flushing Meadows),2018-08-27 10:00:00,2018-09-09 23:00:00,Queens,Sports,Daily attendance and transit impacts
+New York Fashion Week (Fall),2018-09-06 10:00:00,2018-09-14 23:00:00,Manhattan,Culture,Multiple venues
+UN General Assembly,2018-09-18 08:00:00,2018-09-30 23:00:00,Manhattan,Government,Extensive Midtown East closures
+Global Citizen Festival (Central Park),2018-09-29 10:00:00,2018-09-29 23:00:00,Manhattan,Music,Festival on the Great Lawn
+Columbus Day Parade,2018-10-08 11:00:00,2018-10-08 15:00:00,Manhattan,Parade,Fifth Ave closures
+TCS NYC Marathon,2018-11-04 07:00:00,2018-11-04 17:00:00,Multiple,Sports,Five boroughs route
+Macy's Thanksgiving Day Parade,2018-11-22 09:00:00,2018-11-22 12:00:00,Manhattan,Parade,Upper West Side to Midtown
+Rockefeller Center Tree Lighting,2018-11-28 19:00:00,2018-11-28 22:00:00,Manhattan,Holiday Event,Midtown crowding
+New Year's Eve Times Square,2018-12-31 15:00:00,2018-12-31 23:59:59,Manhattan,Holiday Event,Times Square closures
